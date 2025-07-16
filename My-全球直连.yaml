@@ -85,6 +85,11 @@ payload:
   - DOMAIN-SUFFIX,biliapi.net,🎯 全球直连
   - DOMAIN-SUFFIX,bilibili.com,🎯 全球直连
   - DOMAIN-SUFFIX,bilibili.tv,🎯 全球直连
+  - DOMAIN-SUFFIX,bilivideo.cn,🎯 全球直连
+  - DOMAIN-SUFFIX,biligame.com,🎯 全球直连
+  - DOMAIN-SUFFIX,bilivideo.com,🎯 全球直连
+  - DOMAIN-SUFFIX,bilicomics.com,🎯 全球直连
+  - DOMAIN-SUFFIX,bilicomic.com,🎯 全球直连
   - DOMAIN-SUFFIX,hdslb.com,🎯 全球直连
   - DOMAIN-SUFFIX,feiliao.com,🎯 全球直连
   - DOMAIN-SUFFIX,pstatp.com,🎯 全球直连
