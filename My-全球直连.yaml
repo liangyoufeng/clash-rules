@@ -1,5 +1,19 @@
 payload:
   - DOMAIN,app.adjust.com,🎯 全球直连
+  - DOMAIN-SUFFIX,hepingglass.com,🎯 全球直连
+  - DOMAIN-SUFFIX,hepingglass.cc,🎯 全球直连
+  - DOMAIN-SUFFIX,woqukaoqin.com,🎯 全球直连
+  - DOMAIN-SUFFIX,woqu365.com,🎯 全球直连
+  - DOMAIN-SUFFIX,cnblogs.com,🎯 全球直连
+  - DOMAIN-SUFFIX,ctcdn.cn,🎯 全球直连
+  - DOMAIN-SUFFIX,ctyuncdn.cn,🎯 全球直连
+  - DOMAIN-SUFFIX,csdn.net,🎯 全球直连
+  - DOMAIN-SUFFIX,newitcloud.eu.org,🎯 全球直连
+  - DOMAIN-SUFFIX,neweasycloud.eu.org,🎯 全球直连
+  - DOMAIN-SUFFIX,dcits.com,🎯 全球直连
+  - DOMAIN-SUFFIX,digitalchina.com,🎯 全球直连
+  - DOMAIN-SUFFIX,fnnas.com,🎯 全球直连
+  - DOMAIN-SUFFIX,fnos.net,🎯 全球直连
   - DOMAIN,bdtj.tagtic.cn,🎯 全球直连
   - DOMAIN,log.mmstat.com,🎯 全球直连
   - DOMAIN,sycm.mmstat.com,🎯 全球直连
@@ -58,10 +72,6 @@ payload:
   - DOMAIN-SUFFIX,me.com,🎯 全球直连
   - DOMAIN-SUFFIX,mzstatic.com,🎯 全球直连
   - DOMAIN-SUFFIX,baidu.com,🎯 全球直连
-  - DOMAIN-SUFFIX,hepingglass.com,🎯 全球直连
-  - DOMAIN-SUFFIX,hepingglass.cc,🎯 全球直连
-  - DOMAIN-SUFFIX,woqukaoqin.com,🎯 全球直连
-  - DOMAIN-SUFFIX,woqu365.com,🎯 全球直连
   - DOMAIN-SUFFIX,baidubcr.com,🎯 全球直连
   - DOMAIN-SUFFIX,baidupan.com,🎯 全球直连
   - DOMAIN-SUFFIX,baidupcs.com,🎯 全球直连
