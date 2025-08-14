@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,hepingglass.cc,🎯 全球直连
   - DOMAIN-SUFFIX,woqukaoqin.com,🎯 全球直连
   - DOMAIN-SUFFIX,woqu365.com,🎯 全球直连
+  - DOMAIN-SUFFIX,maj-soul.com,🎯 全球直连
+  - DOMAIN-SUFFIX,aliyuncs.com,🎯 全球直连
   - DOMAIN-SUFFIX,cnblogs.com,🎯 全球直连
   - DOMAIN-SUFFIX,ctcdn.cn,🎯 全球直连
   - DOMAIN-SUFFIX,ctyuncdn.cn,🎯 全球直连
@@ -355,4 +357,5 @@ payload:
   - DOMAIN-SUFFIX,zhuihd.com,🎯 全球直连
   - DOMAIN,download.jetbrains.com,🎯 全球直连
   - DOMAIN,images-cn.ssl-images-amazon.com,🎯 全球直连
+
 
