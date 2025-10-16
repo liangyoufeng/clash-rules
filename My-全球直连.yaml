@@ -38,6 +38,14 @@ payload:
   - DOMAIN-SUFFIX,play.modujx11.com,🎯 全球直连
   - DOMAIN-SUFFIX,play.modujx12.com,🎯 全球直连
 # 国内常用
+  - DOMAIN-SUFFIX,bytetos.com,🎯 全球直连
+  - DOMAIN-SUFFIX,ecombdimg.com,🎯 全球直连
+  - DOMAIN-SUFFIX,toutiaoimg.com,🎯 全球直连
+  - DOMAIN-SUFFIX,toutiaostatic.com,🎯 全球直连
+  - DOMAIN-SUFFIX,bytednsdoc.com,🎯 全球直连
+  - DOMAIN-SUFFIX,yhgfb-cn-static.com,🎯 全球直连
+  - DOMAIN-SUFFIX,toutiao.com,🎯 全球直连
+  - DOMAIN-SUFFIX,bytegoofy.com,🎯 全球直连
   - DOMAIN-SUFFIX,douyin.com,🎯 全球直连
   - DOMAIN-SUFFIX,douyinliving.com,🎯 全球直连
   - DOMAIN-SUFFIX,douyinvod.com,🎯 全球直连
@@ -420,6 +428,7 @@ payload:
   - DOMAIN-SUFFIX,zhuihd.com,🎯 全球直连
   - DOMAIN,download.jetbrains.com,🎯 全球直连
   - DOMAIN,images-cn.ssl-images-amazon.com,🎯 全球直连
+
 
 
 
