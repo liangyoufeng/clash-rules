@@ -1,5 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,dui.suiji.red,🛑 全球拦截
+  - DOMAIN-SUFFIX,wxsnsdy.wxs.qq.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,wxs.qq.com,🛑 全球拦截
   - DOMAIN-SUFFIX,jr.vjml.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao-b.com,🛑 全球拦截
   - DOMAIN-SUFFIX,mcupdate.gstarcad.com,🛑 全球拦截
@@ -8642,4 +8644,5 @@ payload:
   - DOMAIN-SUFFIX,yuanchengxiezuo.com,🛑 全球拦截
   - DOMAIN-SUFFIX,zbrushcn.com,🛑 全球拦截
   - DOMAIN-SUFFIX,zhzzx.com,🛑 全球拦截
+
 
