@@ -23,19 +23,37 @@ payload:
   - DOMAIN-SUFFIX,ort-stsdk.vivo.com.cn,⛔️ 自定义广告拦截
 #阿里广告/跟踪,✅ 明确广告追踪,阿里广告追踪 API，常用于淘宝与阿里 SDK 监控
   - DOMAIN-SUFFIX,audid-api.taobao.com,⛔️ 自定义广告拦截
+#大众点评 / 美团统计,埋点数据上报、用户行为追踪
   - DOMAIN-SUFFIX,catdot.dianping.com,⛔️ 自定义广告拦截
+#美团日志上报,日志与行为监控系统
   - DOMAIN-SUFFIX,dreport.meituan.net,⛔️ 自定义广告拦截
+#美团统计 SDK,设备 UUID 上传与广告统计
   - DOMAIN-SUFFIX,data-sdk-uuid-report.dreport.meituan.net,⛔️ 自定义广告拦截
+#美团定位 SDK 日志,埋点与位置上报
   - DOMAIN-SUFFIX,maplocatesdksnapshot.dreport.meituan.net,⛔️ 自定义广告拦截
+#美团动态广告接口,动态广告、活动推荐
   - DOMAIN-SUFFIX,dynamicf.sankuai.com,⛔️ 自定义广告拦截
+#字节系广告 SDK,穿山甲广告统计 SDK 域名
   - DOMAIN-SUFFIX,mssdk.volces.com,⛔️ 自定义广告拦截
+#vivo 推广服务,系统推广和加速广告组件
   - DOMAIN-SUFFIX,speedup.vivo.com.cn,⛔️ 自定义广告拦截
+#美团 CDN,提供图片、活动、广告素材（⚠️ 部分广告图）
   - DOMAIN-SUFFIX,d.meituan.net,⛔️ 自定义广告拦截
+#三快科技,美团对象存储,存放广告或资源素材
   - DOMAIN-SUFFIX,sankuai.com,⛔️ 自定义广告拦截
+#大众点评智能推荐,推荐内容 API，含广告逻辑
   - DOMAIN-SUFFIX,shark.dianping.com,⛔️ 自定义广告拦截
+#美团数据上报 / 日志,可视为隐私上报
   - DOMAIN-SUFFIX,hlx.meituan.com,⛔️ 自定义广告拦截
+#美团内部 API,用于统计与活动拉取，拦截影响小
   - DOMAIN-SUFFIX,dd.meituan.com,⛔️ 自定义广告拦截
+#vivo SDK 上报,📊 埋点 / 统计,vivo 行为上报接口，与广告 SDK 关联
   - DOMAIN-SUFFIX,pfpdonrt-stsdk.vivo.com.cn,⛔️ 自定义广告拦截
+#百度移动广告 SDK,🎯 广告 / 埋点,百度广告统计与监测接口
   - DOMAIN-SUFFIX,mime.baidu.com,⛔️ 自定义广告拦截
+#vivo 浏览器平台,⚠️ 推荐内容,含浏览器首页资讯流、推广内容，可拦截屏蔽推荐
   - DOMAIN-SUFFIX,browserplat.vivo.com.cn,⛔️ 自定义广告拦截
+#vivo 更新统计,⚠️ 更新上报 / 埋点,用于上报系统升级情况，可选拦截以减少追踪
+  - DOMAIN-SUFFIX,stappupgrade.vivo.com.cn,⛔️ 自定义广告拦截
+#vivo 官方更新服务,🔧 系统更新,vivo 系统应用升级接口，拦截会导致系统或商店无法更新
   - DOMAIN-SUFFIX,stappupgrade.vivo.com.cn,⛔️ 自定义广告拦截
