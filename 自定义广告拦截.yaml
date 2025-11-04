@@ -57,3 +57,6 @@ payload:
   - DOMAIN-SUFFIX,stappupgrade.vivo.com.cn,⛔️ 自定义广告拦截
 #vivo 官方更新服务,🔧 系统更新,vivo 系统应用升级接口，拦截会导致系统或商店无法更新
   - DOMAIN-SUFFIX,stappupgrade.vivo.com.cn,⛔️ 自定义广告拦截
+#vivo ROM 配置平台,⚙️ 系统配置 / 推荐模块,vivo ROM 统一配置接口，含推荐/资讯内容，可拦截以减少系统推荐推送
+  - DOMAIN-SUFFIX,stappupgrade.vivo.com.cn,⛔️ 自定义广告拦截
+
