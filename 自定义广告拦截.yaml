@@ -23,3 +23,19 @@ payload:
   - DOMAIN-SUFFIX,ort-stsdk.vivo.com.cn,⛔️ 自定义广告拦截
 #阿里广告/跟踪,✅ 明确广告追踪,阿里广告追踪 API，常用于淘宝与阿里 SDK 监控
   - DOMAIN-SUFFIX,audid-api.taobao.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,catdot.dianping.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,dreport.meituan.net,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,data-sdk-uuid-report.dreport.meituan.net,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,maplocatesdksnapshot.dreport.meituan.net,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,dynamicf.sankuai.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,mssdk.volces.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,speedup.vivo.com.cn,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,d.meituan.net,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,sankuai.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,shark.dianping.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,hlx.meituan.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,dd.meituan.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,pfpdonrt-stsdk.vivo.com.cn,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,mime.baidu.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,browserplat.vivo.com.cn,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,stappupgrade.vivo.com.cn,⛔️ 自定义广告拦截
