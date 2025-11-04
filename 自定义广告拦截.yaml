@@ -1,0 +1,25 @@
+payload:
+#字节跳动（穿山甲广告平台）,🎯 广告 / 埋点,广告 SDK 日志与点击上报接口
+  - DOMAIN-SUFFIX,log-api.pangolin-sdk-toutiao-b.com,⛔️ 自定义广告拦截
+#字节跳动（穿山甲广告平台）,🎯 广告 / 埋点,同上，广告统计接口
+  - DOMAIN-SUFFIX,log-api.pangolin-sdk-toutiao.com,⛔️ 自定义广告拦截
+#字节跳动广告,🎯 广告 / 备用域名,同上备用节点，穿山甲广告加载和上报
+  - DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com,⛔️ 自定义广告拦截
+#字节跳动广告,🎯 广告 / 备用域名,同上备用节点，用于绕封锁
+  - DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao1.com,⛔️ 自定义广告拦截
+#高德地图-⚠️ 部分广告与埋点,Amap 推送/广告统计接口（在地图中加载广告或上报位置行为）
+  - DOMAIN-SUFFIX,aps.amap.com,⛔️ 自定义广告拦截
+#vivo 统计服务,📊 数据上报,vivo 上报与统计接口
+  - DOMAIN-SUFFIX,ptsouweb.vivo.com.cn,⛔️ 自定义广告拦截
+#vivo 语义理解,⚠️ 系统智能服务,vivo 智能助手的自然语言识别接口，非广告，但可视为隐私上报点
+  - DOMAIN-SUFFIX,mobile-nlp.vivo.com.cn,⛔️ 自定义广告拦截
+#vivo 系统,⚠️ 系统推送/智能短信,vivo 智能短信服务，用于识别和推送消息内容，有时带营销推送
+  - DOMAIN-SUFFIX,smartsms.vivo.com.cn,⛔️ 自定义广告拦截
+#vivo 数据上报,✅ 广告/埋点监控,vivo 系统行为上报与广告统计接口
+  - DOMAIN-SUFFIX,monitor-stsdk.vivo.com.cn,⛔️ 自定义广告拦截
+#vivo 数据上报,✅ 广告/行为统计,vivo 行为统计 SDK 上报接口
+  - DOMAIN-SUFFIX,onrt-stsdk.vivo.com.cn,⛔️ 自定义广告拦截
+#vivo 数据上报,✅ 广告/行为统计,vivo 行为统计 SDK 上报接口
+  - DOMAIN-SUFFIX,ort-stsdk.vivo.com.cn,⛔️ 自定义广告拦截
+#阿里广告/跟踪,✅ 明确广告追踪,阿里广告追踪 API，常用于淘宝与阿里 SDK 监控
+  - DOMAIN-SUFFIX,audid-api.taobao.com,⛔️ 自定义广告拦截
