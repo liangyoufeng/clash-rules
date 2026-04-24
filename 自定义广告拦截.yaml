@@ -59,4 +59,11 @@ payload:
   - DOMAIN-SUFFIX,stappupgrade.vivo.com.cn,⛔️ 自定义广告拦截
 #vivo ROM 配置平台,⚙️ 系统配置 / 推荐模块,vivo ROM 统一配置接口，含推荐/资讯内容，可拦截以减少系统推荐推送
   - DOMAIN-SUFFIX,stappupgrade.vivo.com.cn,⛔️ 自定义广告拦截
-
+#比翼多开广告
+  - DOMAIN-SUFFIX,adprod.cn,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,julang.taobao.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,qh-material.taobao.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,adtracker.medproad.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,rtb.julang.taobao.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,qcwx.medproad.com,⛔️ 自定义广告拦截
+#
