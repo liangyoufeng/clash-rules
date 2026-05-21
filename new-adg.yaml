@@ -240986,3 +240986,9 @@ payload:
   - DOMAIN-SUFFIX,adnxs.com,⛔️ 自定义广告拦截
   - DOMAIN-SUFFIX,ads.microsoft.com,⛔️ 自定义广告拦截
   - DOMAIN-SUFFIX,servicer.mgid.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,g.jwpsrv.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,dai.google.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,cdn.privacy-mgmt.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,tr.facebook.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,s.youtube.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,redirector.googlevideo.com,⛔️ 自定义广告拦截
