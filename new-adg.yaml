@@ -240972,3 +240972,17 @@ payload:
   - DOMAIN-SUFFIX,zzzzz4.52896368.com,⛔️ 自定义广告拦截
   - DOMAIN-SUFFIX,browser.sentry-cdn.com,⛔️ 自定义广告拦截
   - DOMAIN-SUFFIX,app.getsentry.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,ssl.p.jwpcdn.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,xp.apple.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,ads.huawei.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,settings-win.data.microsoft.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,connect.facebook.net,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,graph.facebook.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,vk.com/rtrg,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,ib.adnxs.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,secure.adnxs.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,acdn.adnxs.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,prebid.adnxs.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,adnxs.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,ads.microsoft.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,servicer.mgid.com,⛔️ 自定义广告拦截
