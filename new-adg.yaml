@@ -240970,3 +240970,5 @@ payload:
   - DOMAIN-SUFFIX,zzzoraclecloudsupportp02e10-app-hs.eloquademos.com,⛔️ 自定义广告拦截
   - DOMAIN-SUFFIX,zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com,⛔️ 自定义广告拦截
   - DOMAIN-SUFFIX,zzzzz4.52896368.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,browser.sentry-cdn.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,app.getsentry.com,⛔️ 自定义广告拦截
