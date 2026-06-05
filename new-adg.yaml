@@ -240992,3 +240992,8 @@ payload:
   - DOMAIN-SUFFIX,tr.facebook.com,⛔️ 自定义广告拦截
   - DOMAIN-SUFFIX,s.youtube.com,⛔️ 自定义广告拦截
   - DOMAIN-SUFFIX,redirector.googlevideo.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,sspapi.mangolm.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,sdk-track.66mobi.com,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,xadsmartget.adgain.cn,⛔️ 自定义广告拦截
+  - DOMAIN-SUFFIX,vista.divms.cn,⛔️ 自定义广告拦截
+
