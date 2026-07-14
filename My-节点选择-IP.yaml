@@ -580,4 +580,5 @@ payload:
   - DOMAIN-SUFFIX,s3.amazonaws.com,🔰 节点选择
   - DOMAIN-SUFFIX,zaobao.com.sg,🔰 节点选择
   - DOMAIN,international-gfe.download.nvidia.com,🔰 节点选择
-  - DOMAIN-SUFFIX,gstatic.com,🔰 节点选择
+  - DOMAIN,fonts.gstatic.com,🔰 节点选择
+  - DOMAIN,fonts.googleapis.com,🔰 节点选择
