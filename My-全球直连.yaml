@@ -916,7 +916,6 @@ payload:
   - DOMAIN-SUFFIX,www.dell.com,🎯 全球直连
   - DOMAIN-SUFFIX,www.destinationurl.com,🎯 全球直连
   - DOMAIN-SUFFIX,www.entrust.cn,🎯 全球直连
-  - DOMAIN-SUFFIX,www.gstatic.com,🎯 全球直连
   - DOMAIN-SUFFIX,www.libvideo.com,🎯 全球直连
   - DOMAIN-SUFFIX,www.microsoft.com,🎯 全球直连
   - DOMAIN-SUFFIX,www.pxcc.com,🎯 全球直连
