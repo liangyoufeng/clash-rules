@@ -98,7 +98,6 @@ payload:
   - DOMAIN,update.googleapis.com,🎯 全球直连
   - DOMAIN,translate.googleapis.com,🎯 全球直连
   - DOMAIN,fonts.googleapis.com,🎯 全球直连
-  - DOMAIN,fonts.gstatic.com,🎯 全球直连
   - DOMAIN,pubads.g.doubleclick.net,🎯 全球直连
   - DOMAIN,fairplay.l.qq.com,🎯 全球直连
   - DOMAIN,livew.l.qq.com,🎯 全球直连
@@ -573,7 +572,6 @@ payload:
   - DOMAIN-SUFFIX,firebase-settings.crashlytics.com,🎯 全球直连
   - DOMAIN-SUFFIX,fontfiles.googleapis.com,🎯 全球直连
   - DOMAIN-SUFFIX,fonts.googleapis.com,🎯 全球直连
-  - DOMAIN-SUFFIX,fonts.gstatic.com,🎯 全球直连
   - DOMAIN-SUFFIX,fs.microsoft.com,🎯 全球直连
   - DOMAIN-SUFFIX,fta.dell.com,🎯 全球直连
   - DOMAIN-SUFFIX,ftaapj.dell.com,🎯 全球直连
@@ -824,7 +822,6 @@ payload:
   - DOMAIN-SUFFIX,sp.itunes.apple.com,🎯 全球直连
   - DOMAIN-SUFFIX,ss.bjmu.edu.cn,🎯 全球直连
   - DOMAIN-SUFFIX,ssl-google-analytics.l.google.com,🎯 全球直连
-  - DOMAIN-SUFFIX,ssl.gstatic.com,🎯 全球直连
   - DOMAIN-SUFFIX,sslredirect.corp.google.com,🎯 全球直连
   - DOMAIN-SUFFIX,staging-controlbe.floonet.goog,🎯 全球直连
   - DOMAIN-SUFFIX,staging-databe.floonet.goog,🎯 全球直连
