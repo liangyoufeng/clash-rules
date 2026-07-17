@@ -93,8 +93,6 @@ payload:
   - DOMAIN-SUFFIX,blog.google,🎯 全球直连
   - DOMAIN-SUFFIX,googletraveladservices.com,🎯 全球直连
   - DOMAIN,clientservices.googleapis.com,🎯 全球直连
-  - DOMAIN,dl.google.com,🎯 全球直连
-  - DOMAIN,dl.l.google.com,🎯 全球直连
   - DOMAIN,update.googleapis.com,🎯 全球直连
   - DOMAIN,translate.googleapis.com,🎯 全球直连
   - DOMAIN,pubads.g.doubleclick.net,🎯 全球直连
@@ -547,8 +545,6 @@ payload:
   - DOMAIN-SUFFIX,dg-meta.video.google.com,🎯 全球直连
   - DOMAIN-SUFFIX,discussionschinese.apple.com,🎯 全球直连
   - DOMAIN-SUFFIX,dl.dell.com,🎯 全球直连
-  - DOMAIN-SUFFIX,dl.google.com,🎯 全球直连
-  - DOMAIN-SUFFIX,dl.l.google.com,🎯 全球直连
   - DOMAIN-SUFFIX,docs.microsoft.com,🎯 全球直连
   - DOMAIN-SUFFIX,doubleclick-cn.net,🎯 全球直连
   - DOMAIN-SUFFIX,doubleclick.net,🎯 全球直连
