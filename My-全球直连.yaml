@@ -92,9 +92,6 @@ payload:
   - DOMAIN,sycm.mmstat.com,🎯 全球直连
   - DOMAIN-SUFFIX,blog.google,🎯 全球直连
   - DOMAIN-SUFFIX,googletraveladservices.com,🎯 全球直连
-  - DOMAIN,clientservices.googleapis.com,🎯 全球直连
-  - DOMAIN,update.googleapis.com,🎯 全球直连
-  - DOMAIN,translate.googleapis.com,🎯 全球直连
   - DOMAIN,pubads.g.doubleclick.net,🎯 全球直连
   - DOMAIN,fairplay.l.qq.com,🎯 全球直连
   - DOMAIN,livew.l.qq.com,🎯 全球直连
@@ -510,7 +507,6 @@ payload:
   - DOMAIN-SUFFIX,clientflow.apple.com,🎯 全球直连
   - DOMAIN-SUFFIX,clientflow.apple.com.akadns.net,🎯 全球直连
   - DOMAIN-SUFFIX,clientperipherals.dell.com,🎯 全球直连
-  - DOMAIN-SUFFIX,clientservices.googleapis.com,🎯 全球直连
   - DOMAIN-SUFFIX,cma.itunes.apple.com,🎯 全球直连
   - DOMAIN-SUFFIX,cn-smp-paymentservices.apple.com,🎯 全球直连
   - DOMAIN-SUFFIX,cn.download.nvidia.com,🎯 全球直连
@@ -522,7 +518,6 @@ payload:
   - DOMAIN-SUFFIX,configuration.apple.com.akadns.net,🎯 全球直连
   - DOMAIN-SUFFIX,connectivitycheck.gstatic.com,🎯 全球直连
   - DOMAIN-SUFFIX,content.googleadapis.com,🎯 全球直连
-  - DOMAIN-SUFFIX,crashlyticsreports-pa.googleapis.com,🎯 全球直连
   - DOMAIN-SUFFIX,crl-lb.apple.com.akadns.net,🎯 全球直连
   - DOMAIN-SUFFIX,crl.apple.com,🎯 全球直连
   - DOMAIN-SUFFIX,crl.globalsign.net,🎯 全球直连
@@ -558,14 +553,12 @@ payload:
   - DOMAIN-SUFFIX,ea2cn-dev-outlet.dell.com,🎯 全球直连
   - DOMAIN-SUFFIX,ea2cn-prod-outlet.dell.com,🎯 全球直连
   - DOMAIN-SUFFIX,ea2cn-staging-outlet.dell.com,🎯 全球直连
-  - DOMAIN-SUFFIX,emmapplecodevice.googleapis.com,🎯 全球直连
   - DOMAIN-SUFFIX,emoi-cncdn.bing.com,🎯 全球直连
   - DOMAIN-SUFFIX,experiments.apple.com,🎯 全球直连
   - DOMAIN-SUFFIX,f.c2r.ts.cdn.office.net,🎯 全球直连
   - DOMAIN-SUFFIX,fcs.dell.com,🎯 全球直连
   - DOMAIN-SUFFIX,fides-pol.apple.com,🎯 全球直连
   - DOMAIN-SUFFIX,firebase-settings.crashlytics.com,🎯 全球直连
-  - DOMAIN-SUFFIX,fontfiles.googleapis.com,🎯 全球直连
   - DOMAIN-SUFFIX,fs.microsoft.com,🎯 全球直连
   - DOMAIN-SUFFIX,fta.dell.com,🎯 全球直连
   - DOMAIN-SUFFIX,ftaapj.dell.com,🎯 全球直连
@@ -640,7 +633,6 @@ payload:
   - DOMAIN-SUFFIX,images-cn-8.ssl-images-amazon.com,🎯 全球直连
   - DOMAIN-SUFFIX,images-cn.ssl-images-amazon.com,🎯 全球直连
   - DOMAIN-SUFFIX,images.apple.com.edgekey.net.globalredir.akadns.net,🎯 全球直连
-  - DOMAIN-SUFFIX,imasdk.googleapis.com,🎯 全球直连
   - DOMAIN-SUFFIX,inappcheck-cn.itunes-apple.com.akadns.net,🎯 全球直连
   - DOMAIN-SUFFIX,inappcheck-lb.itunes-apple.com.akadns.net,🎯 全球直连
   - DOMAIN-SUFFIX,inappcheck.itunes.apple.com,🎯 全球直连
@@ -745,7 +737,6 @@ payload:
   - DOMAIN-SUFFIX,pba0.apple.com,🎯 全球直连
   - DOMAIN-SUFFIX,pd-nk.itunes.apple.com,🎯 全球直连
   - DOMAIN-SUFFIX,pd.itunes.apple.com,🎯 全球直连
-  - DOMAIN-SUFFIX,performanceparameters.googleapis.com,🎯 全球直连
   - DOMAIN-SUFFIX,pki-goog.l.google.com,🎯 全球直连
   - DOMAIN-SUFFIX,play.itunes.apple.com,🎯 全球直连
   - DOMAIN-SUFFIX,play.music.apple.com,🎯 全球直连
@@ -788,8 +779,6 @@ payload:
   - DOMAIN-SUFFIX,s3.mzstatic.com,🎯 全球直连
   - DOMAIN-SUFFIX,s4.mzstatic.com,🎯 全球直连
   - DOMAIN-SUFFIX,s5.mzstatic.com,🎯 全球直连
-  - DOMAIN-SUFFIX,safebrowsing-cache.google.com,🎯 全球直连
-  - DOMAIN-SUFFIX,safebrowsing.googleapis.com,🎯 全球直连
   - DOMAIN-SUFFIX,scanservice1.qcpp1.net,🎯 全球直连
   - DOMAIN-SUFFIX,scene7-cdn.dell.com,🎯 全球直连
   - DOMAIN-SUFFIX,sdx.microsoft.com,🎯 全球直连
@@ -856,7 +845,6 @@ payload:
   - DOMAIN-SUFFIX,swscan.apple.com,🎯 全球直连
   - DOMAIN-SUFFIX,sylvan.apple.com,🎯 全球直连
   - DOMAIN-SUFFIX,sync.itunes.apple.com,🎯 全球直连
-  - DOMAIN-SUFFIX,tac.googleapis.com,🎯 全球直连
   - DOMAIN-SUFFIX,tesla-cdn.thron.cn,🎯 全球直连
   - DOMAIN-SUFFIX,test.gbugs-qa.chromium.org,🎯 全球直连
   - DOMAIN-SUFFIX,tf-feedback.itunes.apple.com,🎯 全球直连
@@ -864,13 +852,10 @@ payload:
   - DOMAIN-SUFFIX,time.izatcloud.net,🎯 全球直连
   - DOMAIN-SUFFIX,time.xtracloud.net,🎯 全球直连
   - DOMAIN-SUFFIX,tj-pod1-smp-device.apple.com,🎯 全球直连
-  - DOMAIN-SUFFIX,tools.google.com,🎯 全球直连
-  - DOMAIN-SUFFIX,tools.l.google.com,🎯 全球直连
   - DOMAIN-SUFFIX,uberproxy-debug4.corp.google.com,🎯 全球直连
   - DOMAIN-SUFFIX,uberproxy.corp.google.com,🎯 全球直连
   - DOMAIN-SUFFIX,uberproxy6.corp.google.com,🎯 全球直连
   - DOMAIN-SUFFIX,update.crashlytics.com,🎯 全球直连
-  - DOMAIN-SUFFIX,update.googleapis.com,🎯 全球直连
   - DOMAIN-SUFFIX,updates-http.cdn-apple.com,🎯 全球直连
   - DOMAIN-SUFFIX,updates-http.cdn-apple.com.akadns.net,🎯 全球直连
   - DOMAIN-SUFFIX,updates.cdn-apple.com,🎯 全球直连
@@ -880,7 +865,6 @@ payload:
   - DOMAIN-SUFFIX,valid.origin-apple.com.akadns.net,🎯 全球直连
   - DOMAIN-SUFFIX,vscode.download.prss.microsoft.com,🎯 全球直连
   - DOMAIN-SUFFIX,vz.download.prss.microsoft.com,🎯 全球直连
-  - DOMAIN-SUFFIX,wear.googleapis.com,🎯 全球直连
   - DOMAIN-SUFFIX,weather-data.apple.com,🎯 全球直连
   - DOMAIN-SUFFIX,weather-data.apple.com.akadns.net,🎯 全球直连
   - DOMAIN-SUFFIX,weather-map.apple.com,🎯 全球直连
