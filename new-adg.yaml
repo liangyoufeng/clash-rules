@@ -240971,7 +240971,6 @@ payload:
   - DOMAIN-SUFFIX,zzzzz4.52896368.com,⛔️ 自定义广告拦截
   - DOMAIN-SUFFIX,browser.sentry-cdn.com,⛔️ 自定义广告拦截
   - DOMAIN-SUFFIX,app.getsentry.com,⛔️ 自定义广告拦截
-  - DOMAIN-SUFFIX,ssl.p.jwpcdn.com,⛔️ 自定义广告拦截
   - DOMAIN-SUFFIX,xp.apple.com,⛔️ 自定义广告拦截
   - DOMAIN-SUFFIX,ads.huawei.com,⛔️ 自定义广告拦截
   - DOMAIN-SUFFIX,settings-win.data.microsoft.com,⛔️ 自定义广告拦截
