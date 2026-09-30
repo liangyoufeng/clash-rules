@@ -147,3 +147,17 @@ payload:
   - DOMAIN-SUFFIX,ad.toutiao.com,⛔️ 广告拦截
   - DOMAIN-SUFFIX,abtest-ch.snssdk.com,⛔️ 广告拦截
   - DOMAIN-SUFFIX,ad.qq.com,⛔️ 广告拦截
+  - DOMAIN-SUFFIX,0592weixin.com,⛔️ 广告拦截
+  - DOMAIN-SUFFIX,10weixin.com,⛔️ 广告拦截
+  - DOMAIN-SUFFIX,ad.weixin.qq.com,⛔️ 广告拦截
+  - DOMAIN-SUFFIX,aedns.weixin.qq.com,⛔️ 广告拦截
+  - DOMAIN-SUFFIX,as.weixin.qq.com,⛔️ 广告拦截
+  - DOMAIN-SUFFIX,badjs.weixinbridge.com,⛔️ 广告拦截
+  - DOMAIN-SUFFIX,dns.weixin.qq.com.cn,⛔️ 广告拦截
+  - DOMAIN-SUFFIX,dweixin.cn,⛔️ 广告拦截
+  - DOMAIN-SUFFIX,e.weixingshexiangji.net,⛔️ 广告拦截
+  - DOMAIN-SUFFIX,m.weixingshexiangji.net,⛔️ 广告拦截
+  - DOMAIN-SUFFIX,weixingshexiangji.net,⛔️ 广告拦截
+  - DOMAIN-SUFFIX,weixin.renrenying.com,⛔️ 广告拦截
+  - DOMAIN-SUFFIX,weixinvip.ren,⛔️ 广告拦截
+  - DOMAIN-SUFFIX,weixinxx.com,⛔️ 广告拦截
