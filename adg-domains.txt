@@ -243446,6 +243446,7 @@
 ||s1.qiqutt.cn^
 ||s1.qiqutt.com^
 ||s1.qiuyi.cn^
+||s.1rtb.net^
 ||s1r.zerkalo.io^
 ||s1.s8tu.com^
 ||s1sentablya.teenfuckhd.com^
@@ -247240,6 +247241,7 @@
 ||sdk.fiksu.com^
 ||sdk.follow-apps.com^
 ||sdk.fra-01.braze.eu^
+||sdkg.fancyapi.com^
 ||sdk.guard.mob.com^
 ||sdkgw.us1.twilio.com^
 ||sdk.hansel.io^
